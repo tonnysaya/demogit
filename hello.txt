@@ -1,0 +1,2 @@
+def afet():
+  return 'hello world!'
