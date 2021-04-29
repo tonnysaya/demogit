@@ -1,2 +1,7 @@
 def afet():
   return 'hello world!'
+
+这是一个演示文档
+关于怎么使用github
+
+第一 受限使用
